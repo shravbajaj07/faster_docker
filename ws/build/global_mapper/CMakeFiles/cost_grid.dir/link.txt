@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libcost_grid.so -o lib/libcost_grid.so CMakeFiles/cost_grid.dir/src/cost_grid/cost_grid.cc.o  -L/workspaces/faster/ws/build/global_mapper/lib  -L/workspaces/faster/ws/devel/lib -Wl,-rpath,/workspaces/faster/ws/build/global_mapper/lib:/workspaces/faster/ws/devel/lib: lib/libdistance_grid.so lib/liboccupancy_grid.so 

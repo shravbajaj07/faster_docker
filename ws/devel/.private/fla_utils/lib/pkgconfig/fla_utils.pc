@@ -1,0 +1,8 @@
+prefix=/workspaces/faster/ws/devel/.private/fla_utils
+
+Name: fla_utils
+Description: Description of fla_utils
+Version: 0.0.0
+Cflags: -I/workspaces/faster/ws/src/acl-mapping/fla_utils/include
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /workspaces/faster/ws/devel/lib/faster/faster_node
+Symlinking /workspaces/faster/ws/devel/lib/pkgconfig/faster.pc
+Symlinking /workspaces/faster/ws/devel/share/faster/cmake/fasterConfig.cmake
+Symlinking /workspaces/faster/ws/devel/share/faster/cmake/fasterConfig-version.cmake

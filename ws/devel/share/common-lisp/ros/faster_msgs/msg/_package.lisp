@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster_msgs/share/common-lisp/ros/faster_msgs/msg/_package.lisp

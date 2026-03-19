@@ -1,0 +1,8 @@
+prefix=/workspaces/faster/ws/install
+
+Name: faster_msgs
+Description: Description of faster_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

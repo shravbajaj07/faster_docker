@@ -1,0 +1,14 @@
+/workspaces/faster/ws/devel/lib/cmake/global_mapper/global_mapperConfig.cmake
+/workspaces/faster/ws/devel/lib/cmake/global_mapper/global_mapperConfigVersion.cmake
+/workspaces/faster/ws/devel/lib/libglobal_mapper.so
+/workspaces/faster/ws/devel/include/global_mapper/params.h
+/workspaces/faster/ws/devel/include/global_mapper/planning_grids.h
+/workspaces/faster/ws/devel/include/global_mapper/global_mapper.h
+/workspaces/faster/ws/devel/lib/liboccupancy_grid.so
+/workspaces/faster/ws/devel/include/occupancy_grid/occupancy_grid.h
+/workspaces/faster/ws/devel/lib/libdistance_grid.so
+/workspaces/faster/ws/devel/include/distance_grid/distance_grid.h
+/workspaces/faster/ws/devel/lib/libcost_grid.so
+/workspaces/faster/ws/devel/include/cost_grid/cost_grid.h
+/workspaces/faster/ws/devel/include/voxel_grid/voxel_grid.h
+/workspaces/faster/ws/devel/bin/global_mapper_tests

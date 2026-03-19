@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster_msgs/share/gennodejs/ros/faster_msgs/msg/Mode.js

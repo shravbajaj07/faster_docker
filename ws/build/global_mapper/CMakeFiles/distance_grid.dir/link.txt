@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libdistance_grid.so -o lib/libdistance_grid.so CMakeFiles/distance_grid.dir/src/distance_grid/distance_grid.cc.o  -L/workspaces/faster/ws/build/global_mapper/lib  -L/workspaces/faster/ws/devel/lib -Wl,-rpath,::::::::::::::::::::::::::::::: 

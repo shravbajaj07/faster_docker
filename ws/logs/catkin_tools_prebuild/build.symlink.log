@@ -1,0 +1,12 @@
+Symlinking /workspaces/faster/ws/devel/./_setup_util.py
+Symlinking /workspaces/faster/ws/devel/./local_setup.bash
+Symlinking /workspaces/faster/ws/devel/./local_setup.sh
+Symlinking /workspaces/faster/ws/devel/./local_setup.zsh
+Symlinking /workspaces/faster/ws/devel/./cmake.lock
+Symlinking /workspaces/faster/ws/devel/./setup.sh
+Symlinking /workspaces/faster/ws/devel/./setup.zsh
+Symlinking /workspaces/faster/ws/devel/./setup.bash
+Symlinking /workspaces/faster/ws/devel/./env.sh
+Symlinking /workspaces/faster/ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /workspaces/faster/ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /workspaces/faster/ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

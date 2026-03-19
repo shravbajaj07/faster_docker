@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/snapstack_msgs/share/common-lisp/ros/snapstack_msgs/msg/_package_IMU.lisp

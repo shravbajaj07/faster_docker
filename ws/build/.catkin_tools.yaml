@@ -1,0 +1,6 @@
+devel_space: /workspaces/faster/ws/devel
+install: false
+install_space: /workspaces/faster/ws/install
+profile: default
+source_space: /workspaces/faster/ws/src
+workspace: /workspaces/faster/ws

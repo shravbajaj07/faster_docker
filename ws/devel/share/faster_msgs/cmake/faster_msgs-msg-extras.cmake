@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster_msgs/share/faster_msgs/cmake/faster_msgs-msg-extras.cmake

@@ -1,0 +1,12 @@
+/workspaces/faster/ws/devel/share/decomp_util/cmake/decomp_utilConfig.cmake
+/workspaces/faster/ws/devel/share/decomp_util/cmake/decomp_utilConfigVersion.cmake
+/workspaces/faster/ws/devel/include/decomp_basis/data_utils.h
+/workspaces/faster/ws/devel/include/decomp_basis/data_type.h
+/workspaces/faster/ws/devel/include/decomp_geometry/polyhedron.h
+/workspaces/faster/ws/devel/include/decomp_geometry/ellipsoid.h
+/workspaces/faster/ws/devel/include/decomp_geometry/geometric_utils.h
+/workspaces/faster/ws/devel/include/decomp_util/ellipsoid_decomp.h
+/workspaces/faster/ws/devel/include/decomp_util/decomp_base.h
+/workspaces/faster/ws/devel/include/decomp_util/iterative_decomp.h
+/workspaces/faster/ws/devel/include/decomp_util/seed_decomp.h
+/workspaces/faster/ws/devel/include/decomp_util/line_segment.h

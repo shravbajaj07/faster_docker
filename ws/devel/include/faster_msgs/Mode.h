@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster_msgs/include/faster_msgs/Mode.h

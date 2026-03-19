@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/global_mapper_ros/share/common-lisp/ros/global_mapper_ros/msg/global_mapper_ros-msg.asd

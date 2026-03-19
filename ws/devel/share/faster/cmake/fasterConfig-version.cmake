@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster/share/faster/cmake/fasterConfig-version.cmake

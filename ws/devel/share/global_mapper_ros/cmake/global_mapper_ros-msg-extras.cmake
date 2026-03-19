@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/global_mapper_ros/share/global_mapper_ros/cmake/global_mapper_ros-msg-extras.cmake

@@ -1,0 +1,26 @@
+services:
+  faster-sim:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: faster:melodic-sim
+    container_name: faster-sim
+    working_dir: /workspaces/faster
+    stdin_open: true
+    tty: true
+    network_mode: host
+    environment:
+      - DISPLAY=${DISPLAY}
+      - QT_X11_NO_MITSHM=1
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all
+      - GUROBI_HOME=/opt/gurobi/linux64
+      - GRB_LICENSE_FILE=/opt/gurobi/gurobi.lic
+      - LD_LIBRARY_PATH=/opt/gurobi/linux64/lib
+      - LIBGL_ALWAYS_SOFTWARE=1
+      - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/gurobi/linux64/bin
+    volumes:
+      - ..:/workspaces/faster:rw
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+    devices:
+      - /dev/dri:/dev/dri

@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/decomp_ros_msgs/share/roseus/ros/decomp_ros_msgs/msg/PolyhedronArray.l

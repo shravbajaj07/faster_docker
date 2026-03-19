@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster_msgs/share/roseus/ros/faster_msgs/manifest.l

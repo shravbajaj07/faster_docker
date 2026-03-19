@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/global_mapper_ros/share/gennodejs/ros/global_mapper_ros/_index.js

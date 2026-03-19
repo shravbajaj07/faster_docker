@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,liboccupancy_grid.so -o lib/liboccupancy_grid.so CMakeFiles/occupancy_grid.dir/src/occupancy_grid/occupancy_grid.cc.o  -L/workspaces/faster/ws/build/global_mapper/lib  -L/workspaces/faster/ws/devel/lib -Wl,-rpath,::::::::::::::::::::::::::::::: 

@@ -1,0 +1,2 @@
+set(decomp_ros_msgs_MESSAGE_FILES "/workspaces/faster/ws/src/thirdparty/DecompROS/decomp_ros_msgs/msg/Ellipsoid.msg;/workspaces/faster/ws/src/thirdparty/DecompROS/decomp_ros_msgs/msg/EllipsoidArray.msg;/workspaces/faster/ws/src/thirdparty/DecompROS/decomp_ros_msgs/msg/Polyhedron.msg;/workspaces/faster/ws/src/thirdparty/DecompROS/decomp_ros_msgs/msg/PolyhedronArray.msg")
+set(decomp_ros_msgs_SERVICE_FILES "")

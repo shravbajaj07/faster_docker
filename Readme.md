@@ -40,7 +40,15 @@ FASTER has been tested with
 * Ubuntu 16.04/ROS Kinetic  
 * Ubuntu 18.04/ROS Melodic 
 
+For a containerized setup on Linux, see [docker/README.md](./docker/README.md).
+For Docker builds in this repository, place your Gurobi installation under `docker/gurobi/` (including `linux64/` and `gurobi.lic`) so setup scripts can discover libraries reliably.
+
 Other ROS versions may require some minor changes, feel free to [create an issue](https://github.com/mit-acl/faster/issues) if you have any problems. The Gurobi versions tested are Gurobi 8.1, Gurobi 9.0, and Gurobi 9.1.
+
+key: grbgetkey e62de27a-c459-4328-b575-c32b7adb5afb
+key for docker: grbgetkey 2f004784-6d3b-417d-9a26-21b7ed457e8b
+
+api: ebe837a5-3552-4382-bb1e-543f049550e6
 
 Install the [Gurobi Optimizer](https://www.gurobi.com/products/gurobi-optimizer/). You can test your installation typing `gurobi.sh` in the terminal. Have a look at [this section](#issues-when-installing-gurobi) if you have any issues.
 

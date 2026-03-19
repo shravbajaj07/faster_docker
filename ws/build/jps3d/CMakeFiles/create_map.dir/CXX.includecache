@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/faster/ws/src/thirdparty/jps3d/test/create_map.cpp
+iostream
+-
+fstream
+-
+yaml-cpp/yaml.h
+-
+

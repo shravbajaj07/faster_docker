@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/behavior_selector/share/gennodejs/ros/behavior_selector/_index.js

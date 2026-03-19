@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/decomp_test_node/lib/pkgconfig/decomp_test_node.pc

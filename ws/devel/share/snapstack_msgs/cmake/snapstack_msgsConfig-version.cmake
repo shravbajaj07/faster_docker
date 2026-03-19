@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/snapstack_msgs/share/snapstack_msgs/cmake/snapstack_msgsConfig-version.cmake

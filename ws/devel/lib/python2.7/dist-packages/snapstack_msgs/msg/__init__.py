@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/snapstack_msgs/lib/python2.7/dist-packages/snapstack_msgs/msg/__init__.py

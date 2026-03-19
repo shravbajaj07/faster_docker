@@ -1,0 +1,6 @@
+faster
+/workspaces/faster/ws/devel/.private/faster/cmake.lock /workspaces/faster/ws/devel/./cmake.lock
+/workspaces/faster/ws/devel/.private/faster/lib/faster/faster_node /workspaces/faster/ws/devel/lib/faster/faster_node
+/workspaces/faster/ws/devel/.private/faster/lib/pkgconfig/faster.pc /workspaces/faster/ws/devel/lib/pkgconfig/faster.pc
+/workspaces/faster/ws/devel/.private/faster/share/faster/cmake/fasterConfig.cmake /workspaces/faster/ws/devel/share/faster/cmake/fasterConfig.cmake
+/workspaces/faster/ws/devel/.private/faster/share/faster/cmake/fasterConfig-version.cmake /workspaces/faster/ws/devel/share/faster/cmake/fasterConfig-version.cmake

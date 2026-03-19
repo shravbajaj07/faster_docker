@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/faster_msgs/lib/python2.7/dist-packages/faster_msgs/__init__.py

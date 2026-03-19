@@ -1,0 +1,1 @@
+/workspaces/faster/ws/devel/.private/snapstack_msgs/share/gennodejs/ros/snapstack_msgs/msg/ControlLog.js

@@ -59,34 +59,21 @@ This script auto-detects your Gurobi install, creates `.env.docker`, builds the 
 xhost +local:docker
 ```
 
-### 2) Create `.env.docker` with host paths
-
-Create `.env.docker` in the repository root:
-
-```bash
-cat > .env.docker <<EOF
-GUROBI_HOST_PATH=/opt/gurobi1301
-DISPLAY=:0
-EOF
-```
-
-Replace `/opt/gurobi1301` with your actual Gurobi root path.
-
-### 3) Build image
+### 2) Build image
 
 Run from repository root:
 
 ```bash
-docker compose --env-file .env.docker -f docker/docker-compose.yml build
+docker compose -f docker/docker-compose.yml build
 ```
 
-### 4) Start container shell
+### 3) Start container shell
 
 ```bash
-docker compose --env-file .env.docker -f docker/docker-compose.yml run --rm faster-sim bash
+docker compose -f docker/docker-compose.yml run --rm faster-sim bash
 ```
 
-### 5) Build workspace inside container
+### 4) Build workspace inside container
 
 Aerial mode:
 
@@ -129,4 +116,4 @@ roslaunch faster faster.launch
 
 - `setup_ws.sh` validates `GUROBI_HOME` and `GRB_LICENSE_FILE` before building.
 - If Gazebo/RViz cannot open display, verify `DISPLAY` env var and `/tmp/.X11-unix` mount in compose.
-- If you use NVIDIA and want accelerated graphics, install NVIDIA Container Toolkit.
+- Might have to add Gurobi license to docker if the build or run command fails.
